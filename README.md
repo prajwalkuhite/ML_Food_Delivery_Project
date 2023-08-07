@@ -14,3 +14,12 @@
 > pip install -r requirements.txt
 
 
+
+
+
+ src/Constant File - In constant file we have to define our variables used in
+                     components(data_ingestion,data_transformation etc..)
+
+src/config/configuration.py - In configuration file we connect the variables defined in constant file
+
+Then we used in our components

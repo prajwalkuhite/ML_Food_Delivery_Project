@@ -17,6 +17,7 @@ list_of_files = {
     f"{project_name}/config/__init__.py",
     f"{project_name}/constant/__init__.py",
     f"{project_name}/logger/__init__.py",
+    f"{project_name}/exception/__init__.py",
     f"{project_name}/pipeline/__init__.py",
     f"{project_name}/utils/__init__.py",
     f"config/config.yaml",
